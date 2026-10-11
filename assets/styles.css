@@ -1,0 +1,27 @@
+/* Minimal, theme-agnostic styling. Uses only translucent borders so light and dark themes both work. */
+.block-container { max-width: 1240px; padding-top: 2rem; }
+.riq-banner { border-left: 4px solid #B7791F; background: rgba(183,121,31,0.10); padding: 0.6rem 0.9rem;
+  border-radius: 4px; font-size: 0.9rem; margin: 0.4rem 0 1rem 0; }
+.riq-banner.info { border-left-color: #087F8C; background: rgba(8,127,140,0.09); }
+.riq-decision { border: 1px solid rgba(128,128,128,0.35); border-left: 6px solid #526275; border-radius: 6px;
+  padding: 1.1rem 1.3rem; margin-bottom: 1rem; }
+.riq-decision .label { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.7; }
+.riq-decision .value { font-size: 1.9rem; font-weight: 700; letter-spacing: 0.01em; }
+.riq-tag { display: inline-block; padding: 0.1rem 0.5rem; border: 1px solid rgba(128,128,128,0.5);
+  border-radius: 3px; font-size: 0.75rem; margin-right: 0.3rem; }
+.riq-foot { font-size: 0.8rem; opacity: 0.75; }
+[data-testid="stMetricValue"] { font-variant-numeric: tabular-nums; }
+.riq-tag.riq-verified { border-color: #087F8C; border-width: 2px; }
+.riq-tag.riq-reported { border-color: #087F8C; border-style: dotted; border-width: 2px; }
+.riq-tag.riq-vendor { border-color: #8697AB; border-width: 2px; border-style: dotted; }
+.riq-tag.riq-analyst { border-color: #526275; }
+.riq-tag.riq-modeled { border-color: #B7791F; border-width: 2px; }
+.riq-tag.riq-unknown { border-style: dashed; border-color: #B4442F; border-width: 2px; }
+.riq-brief td { vertical-align: top; padding: 0.35rem 0.6rem; }
+.riq-brief td:last-child { white-space: nowrap; }
+@media (max-width: 640px) {
+  .riq-brief td:last-child { white-space: normal; }
+  .riq-brief td { padding: 0.3rem 0.35rem; font-size: 0.9rem; }
+}
+/* Explicit keyboard focus ring for sidebar navigation (Streamlit shows only a background tint). */
+[data-testid="stSidebarNavLink"]:focus-visible { outline: 2px solid #087F8C; outline-offset: 2px; }

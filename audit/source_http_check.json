@@ -1,0 +1,640 @@
+{
+  "checked_at": "2026-10-11T02:51:31+00:00",
+  "user_agent": "ReferralIQ-source-check/1.0 (independent portfolio project; single read-only request per URL)",
+  "results": [
+    {
+      "id": "S01",
+      "publisher": "Intermountain Health",
+      "date": "Undated / accessed 2026-10-10",
+      "category": "Primary",
+      "url": "https://intermountainhealthcare.org/about/ventures",
+      "status": 200,
+      "final_url": "https://intermountainhealthcare.org/about/ventures",
+      "redirected": false,
+      "title": "Intermountain Ventures",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S02",
+      "publisher": "Intermountain Ventures",
+      "date": "Undated / accessed 2026-10-10",
+      "category": "Primary",
+      "url": "https://intermountainventures.com/portfolio",
+      "status": 200,
+      "final_url": "https://intermountainventures.com/portfolio",
+      "redirected": false,
+      "title": "Portfolio | Intermountain Ventures",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S03",
+      "publisher": "Select Health",
+      "date": "2025-12-11",
+      "category": "Primary",
+      "url": "https://www.selecthealth.org/who-we-are/newsroom/december-11-2025-press-release",
+      "status": 200,
+      "final_url": "https://www.selecthealth.org/who-we-are/newsroom/december-11-2025-press-release",
+      "redirected": false,
+      "title": "Select Health to simplify member journeys | Select Health",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S04",
+      "publisher": "CMS",
+      "date": "2024-01-17",
+      "category": "Regulator",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/cms-interoperability-prior-authorization-final-rule-cms-0057-f",
+      "status": 200,
+      "final_url": "https://www.cms.gov/newsroom/fact-sheets/cms-interoperability-prior-authorization-final-rule-cms-0057-f",
+      "redirected": false,
+      "title": "CMS Interoperability and Prior Authorization Final Rule CMS-0057-F | CMS",
+      "tokens": [
+        "2026",
+        "2027"
+      ],
+      "tokens_found": [
+        "2026",
+        "2027"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S05",
+      "publisher": "CMS",
+      "date": "2026 / updated 2026-10-08",
+      "category": "Regulator",
+      "url": "https://www.cms.gov/initiatives/burden-reduction/overview/interoperability/policies-regulations/cms-interoperability-standards-prior-authorization-drugs-proposed-rule-cms-0062-p",
+      "status": 200,
+      "final_url": "https://www.cms.gov/initiatives/burden-reduction/overview/interoperability/policies-regulations/cms-interoperability-standards-prior-authorization-drugs-proposed-rule-cms-0062-p",
+      "redirected": false,
+      "title": "2026 CMS Interoperability Standards and Prior Authorization for Drugs Proposed Rule (CMS-0062-P) | CMS",
+      "tokens": [
+        "2026"
+      ],
+      "tokens_found": [
+        "2026"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S06",
+      "publisher": "American Medical Association",
+      "date": "2026-05-13",
+      "category": "Industry survey",
+      "url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-survey-prior-authorization-reform-pledge-falls-short-physicians",
+      "status": 200,
+      "final_url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-survey-prior-authorization-reform-pledge-falls-short-physicians",
+      "redirected": false,
+      "title": "AMA survey: Prior authorization reform pledge falls short with physicians | American Medical Association",
+      "tokens": [
+        "2025",
+        "40",
+        "13"
+      ],
+      "tokens_found": [
+        "2025",
+        "40",
+        "13"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S07",
+      "publisher": "CAQH",
+      "date": "2026-02-19",
+      "category": "Industry research",
+      "url": "https://www.globenewswire.com/news-release/2026/02/19/3241072/0/en/2025-caqh-index-shows-u-s-healthcare-avoided-258-billion-and-accelerated-automation-interoperability-and-ai-adoption.html",
+      "status": 200,
+      "final_url": "https://www.globenewswire.com/news-release/2026/02/19/3241072/0/en/2025-caqh-index-shows-u-s-healthcare-avoided-258-billion-and-accelerated-automation-interoperability-and-ai-adoption.html",
+      "redirected": false,
+      "title": "2025 CAQH Index Shows U.S. Healthcare Avoided $258 Billion",
+      "tokens": [
+        "2025",
+        "258",
+        "2024"
+      ],
+      "tokens_found": [
+        "2025",
+        "258",
+        "2024"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S08",
+      "publisher": "Fortune",
+      "date": "2025-06-18",
+      "category": "Independent press",
+      "url": "https://fortune.com/2025/06/18/tennr-health-tech-ai-patient-referral-ivp-a16z-lightspeed-iconiq-series-c/",
+      "status": 200,
+      "final_url": "https://fortune.com/2025/06/18/tennr-health-tech-ai-patient-referral-ivp-a16z-lightspeed-iconiq-series-c/",
+      "redirected": false,
+      "title": "Exclusive: Health tech startup Tennr raises $101 million Series C at $605 million valuation to fix the patient referral process | Fortune",
+      "tokens": [
+        "101",
+        "605"
+      ],
+      "tokens_found": [
+        "101",
+        "605"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S09",
+      "publisher": "Tennr",
+      "date": "2025-06-18",
+      "category": "Company announcement",
+      "url": "https://www.prnewswire.com/news-releases/healthcare-referrals-are-where-patients-get-lost-tennr-raises-101m-to-bring-the-visibility-our-system-desperately-needs-302485255.html",
+      "status": 200,
+      "final_url": "https://www.prnewswire.com/news-releases/healthcare-referrals-are-where-patients-get-lost-tennr-raises-101m-to-bring-the-visibility-our-system-desperately-needs-302485255.html",
+      "redirected": false,
+      "title": "Healthcare referrals are where patients get lost. Tennr raises $101M to bring the visibility our system desperately needs",
+      "tokens": [
+        "101"
+      ],
+      "tokens_found": [
+        "101"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S10",
+      "publisher": "Silna Health",
+      "date": "2025-03-25",
+      "category": "Company announcement",
+      "url": "https://www.silnahealth.com/resources/introducing-silna-health/",
+      "status": 200,
+      "final_url": "https://www.silnahealth.com/resources/introducing-silna-health/",
+      "redirected": false,
+      "title": "Introducing Silna, Healthcare\u2019s First Care Readiness Platform - Silna Health",
+      "tokens": [
+        "27"
+      ],
+      "tokens_found": [
+        "27"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S11",
+      "publisher": "Silna Health",
+      "date": "2026-01-28",
+      "category": "Company announcement",
+      "url": "https://www.silnahealth.com/resources/predictive-document-intelligence/",
+      "status": 200,
+      "final_url": "https://www.silnahealth.com/resources/predictive-document-intelligence/",
+      "redirected": false,
+      "title": "Introducing Predictive Document Intelligence - Silna Health",
+      "tokens": [
+        "150000"
+      ],
+      "tokens_found": [
+        "150000"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S12",
+      "publisher": "Silna Engineering",
+      "date": "2026-05-01",
+      "category": "Company engineering",
+      "url": "https://engineering.silnahealth.com/posts/beyond-the-agent/",
+      "status": 200,
+      "final_url": "https://engineering.silnahealth.com/posts/beyond-the-agent/",
+      "redirected": false,
+      "title": "Beyond the Agent: AI Operations, the Team Behind 20x Browser Agent Growth | Silna Engineering",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S13",
+      "publisher": "Silna Health",
+      "date": "Undated / accessed 2026-10-10",
+      "category": "Vendor case study",
+      "url": "https://www.silnahealth.com/resources/answersnow-case-study/",
+      "status": 200,
+      "final_url": "https://www.silnahealth.com/resources/answersnow-case-study/",
+      "redirected": false,
+      "title": "AnswersNow Scales Faster and Streamlines Care Access with Silna - Silna Health",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S14",
+      "publisher": "Rhyme",
+      "date": "Undated / accessed 2026-10-10",
+      "category": "Company website",
+      "url": "https://getrhyme.com/",
+      "status": 200,
+      "final_url": "https://getrhyme.com/",
+      "redirected": false,
+      "title": "Rhyme - Eliminating Prior Auth",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S15",
+      "publisher": "Plenful",
+      "date": "2025-04-30",
+      "category": "Company announcement",
+      "url": "https://www.prnewswire.com/news-releases/plenful-raises-50m-series-b-to-expand-ai-powered-healthcare-automation-platform-302442027.html",
+      "status": 200,
+      "final_url": "https://www.prnewswire.com/news-releases/plenful-raises-50m-series-b-to-expand-ai-powered-healthcare-automation-platform-302442027.html",
+      "redirected": false,
+      "title": "Plenful Raises $50M Series B to Expand AI-Powered Healthcare Automation Platform",
+      "tokens": [
+        "50"
+      ],
+      "tokens_found": [
+        "50"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S16",
+      "publisher": "Plenful",
+      "date": "2025-09-11",
+      "category": "Company announcement",
+      "url": "https://www.plenful.com/blog/news-bringing-ai-powered-speed-to-intake-authorization-end-to-end",
+      "status": 200,
+      "final_url": "https://www.plenful.com/blog/news-bringing-ai-powered-speed-to-intake-authorization-end-to-end",
+      "redirected": false,
+      "title": "4x Capacity, 75% Less Manual Work: How We\u2019re Bringing AI-powered Speed to Intake Authorization, End-to-End | Plenful",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S17",
+      "publisher": "SamaCare",
+      "date": "2024-05-21",
+      "category": "Company announcement",
+      "url": "https://www.samacare.com/resources/samacare-secures-17m-series-b-investment-to-scale-specialty-drug-prior-authorization-platform",
+      "status": 200,
+      "final_url": "https://www.samacare.com/resources/samacare-secures-17m-series-b-investment-to-scale-specialty-drug-prior-authorization-platform",
+      "redirected": false,
+      "title": "Samacare | SamaCare Secures $17M Series B Investment to Scale Specialty Drug Prior Authorization Platform",
+      "tokens": [
+        "17"
+      ],
+      "tokens_found": [
+        "17"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S18",
+      "publisher": "SamaCare",
+      "date": "Undated / accessed 2026-10-10",
+      "category": "Company website",
+      "url": "https://samacare.com/providers",
+      "status": 200,
+      "final_url": "https://samacare.com/providers",
+      "redirected": false,
+      "title": "Providers",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S19",
+      "publisher": "ReferralMD",
+      "date": "Undated / accessed 2026-10-10",
+      "category": "Company website",
+      "url": "https://referralmd.com/solutions/referral-management/",
+      "status": 200,
+      "final_url": "https://referralmd.com/solutions/referral-management/",
+      "redirected": false,
+      "title": "Referral Management Software for Healthcare | ReferralMD",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S20",
+      "publisher": "Luma Health",
+      "date": "2021-11",
+      "category": "Company announcement",
+      "url": "https://www.lumahealth.io/luma-health-series-c/",
+      "status": 200,
+      "final_url": "https://www.lumahealth.io/luma-health-series-c/",
+      "redirected": false,
+      "title": "Unifying Every Step of the Patient Journey - Luma Health",
+      "tokens": [
+        "130"
+      ],
+      "tokens_found": [
+        "130"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S21",
+      "publisher": "Cohere Health",
+      "date": "2025-05-14",
+      "category": "Company announcement",
+      "url": "https://www.coherehealth.com/news/cohere-health-90m-series-c-ai-platform-expansion",
+      "status": 200,
+      "final_url": "https://www.coherehealth.com/news/cohere-health-90m-series-c-ai-platform-expansion",
+      "redirected": false,
+      "title": "Cohere Health Raises $90M to Expand AI Clinical Platform",
+      "tokens": [
+        "90",
+        "200"
+      ],
+      "tokens_found": [
+        "90",
+        "200"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S22",
+      "publisher": "Anterior",
+      "date": "2026-02-12",
+      "category": "Company announcement",
+      "url": "https://www.anterior.com/insights/announcements/anterior-raises-40m-series/",
+      "status": 200,
+      "final_url": "https://www.anterior.com/insights/announcements/anterior-raises-40m-series/",
+      "redirected": false,
+      "title": "Anterior closes $40 Million to accelerate health plan AI adoption, bringing total funding to $64 Million",
+      "tokens": [
+        "40",
+        "64"
+      ],
+      "tokens_found": [
+        "40",
+        "64"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S23",
+      "publisher": "Infinitus Systems",
+      "date": "2024-10-23",
+      "category": "Company announcement",
+      "url": "https://www.prnewswire.com/news-releases/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails-302283847.html",
+      "status": 200,
+      "final_url": "https://www.prnewswire.com/news-releases/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails-302283847.html",
+      "redirected": false,
+      "title": "Infinitus Systems raises $51.5 million Series C funding on the strength of AI guardrails",
+      "tokens": [
+        "51.5"
+      ],
+      "tokens_found": [
+        "51.5"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S24",
+      "publisher": "Notable",
+      "date": "2021-11-03",
+      "category": "Company announcement",
+      "url": "https://www.notablehealth.com/blog/notable-raises-series-b-to-expand-intelligent-automation-in-healthcare",
+      "status": 200,
+      "final_url": "https://www.notablehealth.com/blog/notable-raises-series-b-to-expand-intelligent-automation-in-healthcare",
+      "redirected": false,
+      "title": "Notable Raises Series B to Expand Intelligent Automation in Healthcare",
+      "tokens": [
+        "100"
+      ],
+      "tokens_found": [
+        "100"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S25",
+      "publisher": "Notable",
+      "date": "2025-05-22",
+      "category": "Vendor case discussion",
+      "url": "https://www.notablehealth.com/blog/getting-started-with-prior-authorization-automation",
+      "status": 200,
+      "final_url": "https://www.notablehealth.com/blog/getting-started-with-prior-authorization-automation",
+      "redirected": false,
+      "title": "How to reduce prior authorization denials with AI Agents",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S26",
+      "publisher": "Assort Health",
+      "date": "2026-06-24",
+      "category": "Company announcement",
+      "url": "https://www.prnewswire.com/news-releases/assort-health-raises-120-million-series-c-to-scale-largest-deployment-of-ai-agents-for-the-patient-journey-302808634.html",
+      "status": 200,
+      "final_url": "https://www.prnewswire.com/news-releases/assort-health-raises-120-million-series-c-to-scale-largest-deployment-of-ai-agents-for-the-patient-journey-302808634.html",
+      "redirected": false,
+      "title": "/C O R R E C T I O N -- Assort Health/",
+      "tokens": [
+        "120",
+        "1.2"
+      ],
+      "tokens_found": [
+        "120",
+        "1.2"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S27",
+      "publisher": "Assort Health",
+      "date": "2026-08-12",
+      "category": "Company announcement",
+      "url": "https://www.assorthealth.com/press/assort-health-unveils-referrals-the-first-ai-agent-that-handles-processing-triage-and-continuous-patient-conversations-for-every-referral",
+      "status": 200,
+      "final_url": "https://www.assorthealth.com/press/assort-health-unveils-referrals-the-first-ai-agent-that-handles-processing-triage-and-continuous-patient-conversations-for-every-referral",
+      "redirected": false,
+      "title": "Assort Health Unveils Referrals, the First AI Agent that Handles Processing, Triage, and Continuous Patient Conversations for Every Referral",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S28",
+      "publisher": "CAQH summarized by American Hospital Association",
+      "date": "2025-10",
+      "category": "Secondary summary (AHA Trailblazers report sponsored by Ailevate; figures attributed to the 2024 CAQH Index)",
+      "url": "https://www.aha.org/system/files/media/file/2025/10/Trailblazers_Ailevate_ClaimsDenials.pdf",
+      "status": 200,
+      "final_url": "https://www.aha.org/system/files/media/file/2025/10/Trailblazers_Ailevate_ClaimsDenials.pdf",
+      "redirected": false,
+      "title": "",
+      "tokens": [
+        "2024",
+        "24",
+        "10"
+      ],
+      "tokens_found": [],
+      "result": "REACHABLE PDF (text not parsed; claim support not checked)",
+      "error": ""
+    },
+    {
+      "id": "S29",
+      "publisher": "Intermountain Health",
+      "date": "2025 annual report / accessed 2026-10-10",
+      "category": "Primary",
+      "url": "https://intermountainhealthcare.org/about/annual-report",
+      "status": 200,
+      "final_url": "https://intermountainhealthcare.org/about/annual-report",
+      "redirected": false,
+      "title": "Annual Report",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S30",
+      "publisher": "Silna Health",
+      "date": "Undated / accessed 2026-10-10",
+      "category": "Company website",
+      "url": "https://www.silnahealth.com/prior-authorization/",
+      "status": 200,
+      "final_url": "https://www.silnahealth.com/prior-authorization/",
+      "redirected": false,
+      "title": "Prior Authorization Automation | Silna Health",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S31",
+      "publisher": "Intermountain Health",
+      "date": "2020-10-06",
+      "category": "Primary, health-system press release",
+      "url": "https://news.intermountainhealth.org/intermountain-healthcare-partners-with-notable-health-to-expand-the-my-health-digital-platform-for-patients/",
+      "status": 200,
+      "final_url": "https://news.intermountainhealth.org/intermountain-healthcare-partners-with-notable-health-to-expand-the-my-health-digital-platform-for-patients/",
+      "redirected": false,
+      "title": "Intermountain Healthcare Partners With Notable Health to Expand the My Health+ Digital Platform for Patients",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S32",
+      "publisher": "Rock Health via Healthcare Dive",
+      "date": "2026-07-16",
+      "category": "Industry research",
+      "url": "https://www.healthcaredive.com/news/digital-health-funding-first-half-2026-rock-health/825215/",
+      "status": 403,
+      "final_url": "https://www.healthcaredive.com/news/digital-health-funding-first-half-2026-rock-health/825215/",
+      "redirected": false,
+      "title": "",
+      "tokens": [
+        "2026",
+        "7.4",
+        "244"
+      ],
+      "tokens_found": [],
+      "result": "BLOCKED OR RESTRICTED HTTP 403 (inaccessible to this check, not disproven)",
+      "error": ""
+    },
+    {
+      "id": "S33",
+      "publisher": "Notable",
+      "date": "2025-06-09",
+      "category": "Vendor case study",
+      "url": "https://www.notablehealth.com/blog/how-automation-improves-patient-outcomes-at-scale",
+      "status": 200,
+      "final_url": "https://www.notablehealth.com/blog/how-automation-improves-patient-outcomes-at-scale",
+      "redirected": false,
+      "title": "How automation improves patient outcomes at scale",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S34",
+      "publisher": "Notable",
+      "date": "Undated, accessed 2026-10-10",
+      "category": "Vendor case study",
+      "url": "https://www.notablehealth.com/customer-stories/intermountain-healthcare-drives-77-digital-completion-rate-of-well-child-forms-through-automation",
+      "status": 200,
+      "final_url": "https://www.notablehealth.com/customer-stories/intermountain-healthcare-drives-77-digital-completion-rate-of-well-child-forms-through-automation",
+      "redirected": false,
+      "title": "Intermountain: 77% Digital Completion on Well-Child Forms | Notable",
+      "tokens": [
+        "12500"
+      ],
+      "tokens_found": [
+        "12500"
+      ],
+      "result": "REACHABLE, key figures present in page text (claim support still needs human read)",
+      "error": ""
+    },
+    {
+      "id": "S35",
+      "publisher": "CMS",
+      "date": "2026-05-13",
+      "category": "Regulator",
+      "url": "https://www.cms.gov/newsroom/press-releases/cms-announces-early-adopters-advance-solutions-electronic-prior-authorization-accelerating-momentum",
+      "status": 200,
+      "final_url": "https://www.cms.gov/newsroom/press-releases/cms-announces-early-adopters-advance-solutions-electronic-prior-authorization-accelerating-momentum",
+      "redirected": false,
+      "title": "CMS Announces Early Adopters to Advance Solutions for Electronic Prior Authorization, Accelerating Momentum Ahead of 2027 Requirements | CMS",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    },
+    {
+      "id": "S36",
+      "publisher": "Notable",
+      "date": "2026-01-07",
+      "category": "Vendor announcement",
+      "url": "https://www.notablehealth.com/blog/inova-health-partners-with-notable-to-support-system-wide-ai-and-digital-transformation-strategy",
+      "status": 200,
+      "final_url": "https://www.notablehealth.com/blog/inova-health-partners-with-notable-to-support-system-wide-ai-and-digital-transformation-strategy",
+      "redirected": false,
+      "title": "Inova Health partners with Notable to support system-wide AI and digital transformation strategy",
+      "tokens": [],
+      "tokens_found": [],
+      "result": "REACHABLE, key figures not found in static text (JS-rendered, paywalled or different wording)",
+      "error": ""
+    }
+  ]
+}

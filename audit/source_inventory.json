@@ -1,0 +1,19 @@
+{
+  "model_version": "2.0.0",
+  "as_of": "2026-10-10",
+  "sha256": {
+    "model_contract.json": "05092708540c418122c2c5e0c71f87dcf2a466bcba8dcf2a904ab8985f27ce08",
+    "model_fixtures.json": "27f4d3692617273b5dc94f53af7fd65f1a699a7be543a61ae1380d831d5e8f30",
+    "Pilot_ROI_and_Venture_Model.xlsx": "e1fbb3a2f5f34774bfde0faf1fef5f80f150f5d97ca472ccef5b7c81a8c91e7c",
+    "Investment_Committee_Memo.pdf": "c7ba87a4bcfe716b8aa673c4bf57a3f8bea3a6492b728ad4f54c2cea92ab9840",
+    "Executive_Investment_Brief.pdf": "70c47d54645b3c0ffde00ea50856d446db4a3bde2bfaf3c4b680f57b6ca95233",
+    "data/company_screen.csv": "5b61028edfd258a308305f2a48854f7e970a1869e689645b60ad65918541b024",
+    "data/source_register.csv": "94f743a40a579c484bae959d250a2c66b14b587abf5a268fa179f0cf3999fff4",
+    "qa/model_validation.py": "7142ceef9b3328c1e8d877091cd9ceeef5ff69297f89bb48bb1c069809bb5fb0",
+    "PHASE3_CLAUDE_CODE_HANDOFF.md": "094aab8cff1184b3210c97a806c922a7925813c6026e67fc55f64a61764cfe4d",
+    "README_FIRST.md": "91a8a5ed79bbc20e6fc2d21e3adec49d77fd26ecd2f1c4475032ff08d8ddcac4"
+  },
+  "companies": 12,
+  "sources": 36,
+  "links": 21
+}

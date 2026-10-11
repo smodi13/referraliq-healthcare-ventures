@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Tennr",
+    "score": 86.0,
+    "recomputed": 86.0,
+    "sources": [
+      "S08",
+      "S09"
+    ],
+    "event_date": "Jun 2025",
+    "flags": [],
+    "role": "Pilot / benchmark"
+  },
+  {
+    "name": "Notable",
+    "score": 83.0,
+    "recomputed": 83.0,
+    "sources": [
+      "S24",
+      "S25"
+    ],
+    "event_date": "Nov 2021",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Critical existing-vendor check"
+  },
+  {
+    "name": "Rhyme",
+    "score": 81.0,
+    "recomputed": 81.0,
+    "sources": [
+      "S14"
+    ],
+    "event_date": null,
+    "flags": [
+      "no financing date stated",
+      "valuation not disclosed or not verified",
+      "imprecise source dates: S14",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Pilot / network benchmark"
+  },
+  {
+    "name": "Silna Health",
+    "score": 80.0,
+    "recomputed": 80.0,
+    "sources": [
+      "S10",
+      "S11",
+      "S12",
+      "S13",
+      "S30"
+    ],
+    "event_date": "Mar 2025",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "imprecise source dates: S13, S30",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Priority equity diligence"
+  },
+  {
+    "name": "Luma Health",
+    "score": 78.0,
+    "recomputed": 78.0,
+    "sources": [
+      "S20"
+    ],
+    "event_date": "2021",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "imprecise source dates: S20",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Incumbent competitor"
+  },
+  {
+    "name": "Plenful",
+    "score": 77.0,
+    "recomputed": 77.0,
+    "sources": [
+      "S15",
+      "S16"
+    ],
+    "event_date": "Apr 2025",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Adjacent diligence"
+  },
+  {
+    "name": "SamaCare",
+    "score": 74.0,
+    "recomputed": 74.0,
+    "sources": [
+      "S17",
+      "S18"
+    ],
+    "event_date": "May 2024",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "imprecise source dates: S18",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Sector comparator"
+  },
+  {
+    "name": "ReferralMD",
+    "score": 73.0,
+    "recomputed": 73.0,
+    "sources": [
+      "S19"
+    ],
+    "event_date": null,
+    "flags": [
+      "no financing date stated",
+      "valuation not disclosed or not verified",
+      "imprecise source dates: S19",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Pilot / procurement comparator"
+  },
+  {
+    "name": "Assort Health",
+    "score": 70.0,
+    "recomputed": 70.0,
+    "sources": [
+      "S26",
+      "S27"
+    ],
+    "event_date": "Jun 2026",
+    "flags": [
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Enterprise comparator"
+  },
+  {
+    "name": "Cohere Health",
+    "score": 70.0,
+    "recomputed": 70.0,
+    "sources": [
+      "S21"
+    ],
+    "event_date": "May 2025",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Payer-side comparator"
+  },
+  {
+    "name": "Anterior",
+    "score": 70.0,
+    "recomputed": 70.0,
+    "sources": [
+      "S22"
+    ],
+    "event_date": "Feb 2026",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Select Health optionality"
+  },
+  {
+    "name": "Infinitus Systems",
+    "score": 63.0,
+    "recomputed": 63.0,
+    "sources": [
+      "S23"
+    ],
+    "event_date": "Oct 2024",
+    "flags": [
+      "valuation not disclosed or not verified",
+      "all linked sources are company or vendor authored"
+    ],
+    "role": "Channel comparator"
+  }
+]

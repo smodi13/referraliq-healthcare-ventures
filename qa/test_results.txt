@@ -1,0 +1,14 @@
+test_check_cannot_exceed_round (__main__.ModelTests.test_check_cannot_exceed_round) ... ok
+test_invalid_inputs_rejected (__main__.ModelTests.test_invalid_inputs_rejected) ... ok
+test_more_dilution_reduces_return (__main__.ModelTests.test_more_dilution_reduces_return) ... ok
+test_reference_scenarios (__main__.ModelTests.test_reference_scenarios) ... ok
+test_scenario_order (__main__.ModelTests.test_scenario_order) ... ok
+test_vendor_price_can_flip_net (__main__.ModelTests.test_vendor_price_can_flip_net) ... ok
+test_zero_cash_conversion_does_not_create_savings (__main__.ModelTests.test_zero_cash_conversion_does_not_create_savings) ... ok
+test_zero_exit_return (__main__.ModelTests.test_zero_exit_return) ... ok
+test_zero_pilot_volume_still_pays_setup (__main__.ModelTests.test_zero_pilot_volume_still_pays_setup) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.002s
+
+OK

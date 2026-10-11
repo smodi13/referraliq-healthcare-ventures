@@ -1,0 +1,2 @@
+Coverage JSON written to file audit/coverage.json
+106 passed, 6 warnings in 4.95s

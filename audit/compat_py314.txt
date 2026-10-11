@@ -1,0 +1,9 @@
+python: Python 3.14.3
+
+installed: openpyxl=3.1.5 pandas=3.0.1 plotly=6.6.0 pytest=9.1.1 streamlit=1.56.0 
+imports ok
+..................................................................       [100%]
+138 passed in 29.32s
+health (default env, expected read-only): ok
+venture route http: 200
+Seeded 12 companies, 36 sources, 21 csv links into <tmp>

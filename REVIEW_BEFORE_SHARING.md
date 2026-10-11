@@ -1,0 +1,23 @@
+# Review before sharing (human sign-off)
+
+- [ ] Every source URL opens and matches its claim; refresh access dates (S01, S02, S13, S14, S18, S19, S30, S34 are undated)
+- [ ] Financing figures (Silna $27M Mar 2025, Tennr $101M / $605M Jun 2025, others) re-checked against sources
+- [ ] No text implies a company is currently raising or that the Notable relationship is active today
+- [ ] No private metric (ARR, valuation, pricing) is presented as verified; hypothetical labels present on pilot and venture pages
+- [ ] Model units and outputs agree with the workbook dashboard (base: -$39,834 / $25,776 / -$31,268 / 2.97x / 19.9%)
+- [ ] Defensibility, patent, clinical and regulatory (CMS-0057-F scope) statements reviewed by someone qualified
+- [ ] Independent-project disclaimer visible on every page; README states no Intermountain endorsement
+- [ ] No PHI, credentials or local paths in exports, notes or the repository; `local_data/` not committed
+- [ ] Confirm repository visibility is intended. Do not set REFERRALIQ_ANALYST_MODE on any hosted app (the app is read-only by default)
+- [ ] No em dash characters remain in new copy (automated test covers project files)
+- [ ] Visual review of Company Diligence, Evidence and Gates, dark theme and tablet width (not done in this session)
+- [ ] All material outputs receive a final human investment review
+- [ ] Read each of the 36 sources against its claim; S32 returned HTTP 403 to the automated check; S15, S26 are index pages (SOURCE_VERIFICATION_REPORT.md)
+- [ ] Confirm Python 3.12 or 3.13 test pass in the hosting runtime (ISSUE_LOG P4-101)
+- [ ] Confirm hosted app shows "Read-only showcase mode" and no edit forms
+- [ ] Remove or keep `audit/screenshots/` deliberately before publishing the repository
+- [x] S15 and S26 citation corrections approved and applied as an overlay (data_corrections/)
+- [ ] Open S32 (Healthcare Dive) in a browser and read the article text; S07 loaded on recheck
+- [ ] Confirm page dates for sources whose date was not visible on the page (SOURCE_VERIFICATION_REPORT.md)
+- [ ] Decide on a repository license (none was added)
+- [ ] Re-read the Silna screening limitation and entry-rating sensitivity on the Overview and Screener

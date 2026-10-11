@@ -1,0 +1,12 @@
+# Separate light and dark themes make Streamlit follow the viewer's system setting.
+[theme.light]
+primaryColor = "#087F8C"
+
+[theme.dark]
+primaryColor = "#3FB7C4"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

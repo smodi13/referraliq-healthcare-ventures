@@ -1,0 +1,338 @@
+{
+  "model_version": "2.0.0",
+  "tolerance": 1e-06,
+  "passed": true,
+  "mismatches": [],
+  "scenarios": {
+    "Downside": {
+      "pilot_capacity": {
+        "expected": 1057.92,
+        "actual": 1057.92,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "pilot_cash": {
+        "expected": 264.48,
+        "actual": 264.48,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "pilot_cost": {
+        "expected": 66900,
+        "actual": 66900,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "pilot_net": {
+        "expected": -66635.52,
+        "actual": -66635.52,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_capacity": {
+        "expected": 65664.0,
+        "actual": 65664.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_cash": {
+        "expected": 16416.0,
+        "actual": 16416.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "recurring_cost": {
+        "expected": 166800,
+        "actual": 166800,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "runrate_net": {
+        "expected": -150384.0,
+        "actual": -150384.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_coverage": {
+        "expected": 0.09841726618705036,
+        "actual": 0.09841726618705036,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "first_year_net": {
+        "expected": -196950.4,
+        "actual": -196950.4,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "breakeven_cash_realization": {
+        "expected": 2.540204678362573,
+        "actual": 2.540204678362573,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_post_money": {
+        "expected": 140,
+        "actual": 140,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "venture_initial_ownership": {
+        "expected": 0.014285714285714285,
+        "actual": 0.014285714285714285,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_exit_ownership": {
+        "expected": 0.007142857142857143,
+        "actual": 0.007142857142857143,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_exit_equity": {
+        "expected": 90,
+        "actual": 90,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "venture_proceeds": {
+        "expected": 0.6428571428571428,
+        "actual": 0.6428571428571428,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_moic": {
+        "expected": 0.3214285714285714,
+        "actual": 0.3214285714285714,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_irr": {
+        "expected": -0.17234867812922494,
+        "actual": -0.17234867812922494,
+        "abs_diff": 0.0,
+        "ok": true
+      }
+    },
+    "Base": {
+      "pilot_capacity": {
+        "expected": 8232.0,
+        "actual": 8232.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "pilot_cash": {
+        "expected": 4116.0,
+        "actual": 4116.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "pilot_cost": {
+        "expected": 43950,
+        "actual": 43950,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "pilot_net": {
+        "expected": -39834.0,
+        "actual": -39834.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_capacity": {
+        "expected": 296352.0,
+        "actual": 296352.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_cash": {
+        "expected": 148176.0,
+        "actual": 148176.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "recurring_cost": {
+        "expected": 122400,
+        "actual": 122400,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "runrate_net": {
+        "expected": 25776.0,
+        "actual": 25776.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_coverage": {
+        "expected": 1.2105882352941177,
+        "actual": 1.2105882352941177,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "first_year_net": {
+        "expected": -31268.0,
+        "actual": -31268.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "breakeven_cash_realization": {
+        "expected": 0.413022351797862,
+        "actual": 0.413022351797862,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_post_money": {
+        "expected": 105,
+        "actual": 105,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "venture_initial_ownership": {
+        "expected": 0.01904761904761905,
+        "actual": 0.01904761904761905,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_exit_ownership": {
+        "expected": 0.012380952380952383,
+        "actual": 0.012380952380952383,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_exit_equity": {
+        "expected": 480,
+        "actual": 480,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "venture_proceeds": {
+        "expected": 5.942857142857144,
+        "actual": 5.942857142857144,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_moic": {
+        "expected": 2.971428571428572,
+        "actual": 2.971428571428572,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_irr": {
+        "expected": 0.1990230972348428,
+        "actual": 0.1990230972348428,
+        "abs_diff": 0.0,
+        "ok": true
+      }
+    },
+    "Upside": {
+      "pilot_capacity": {
+        "expected": 32400.0,
+        "actual": 32400.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "pilot_cash": {
+        "expected": 19440.0,
+        "actual": 19440.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "pilot_cost": {
+        "expected": 51050,
+        "actual": 51050,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "pilot_net": {
+        "expected": -31610.0,
+        "actual": -31610.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_capacity": {
+        "expected": 810000.0,
+        "actual": 810000.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_cash": {
+        "expected": 486000.0,
+        "actual": 486000.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "recurring_cost": {
+        "expected": 138600,
+        "actual": 138600,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "runrate_net": {
+        "expected": 347400.0,
+        "actual": 347400.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "runrate_coverage": {
+        "expected": 3.5064935064935066,
+        "actual": 3.5064935064935066,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "first_year_net": {
+        "expected": 249500.0,
+        "actual": 249500.0,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "breakeven_cash_realization": {
+        "expected": 0.1711111111111111,
+        "actual": 0.1711111111111111,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_post_money": {
+        "expected": 80,
+        "actual": 80,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "venture_initial_ownership": {
+        "expected": 0.025,
+        "actual": 0.025,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_exit_ownership": {
+        "expected": 0.018750000000000003,
+        "actual": 0.018750000000000003,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_exit_equity": {
+        "expected": 1440,
+        "actual": 1440,
+        "abs_diff": 0,
+        "ok": true
+      },
+      "venture_proceeds": {
+        "expected": 27.000000000000004,
+        "actual": 27.000000000000004,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_moic": {
+        "expected": 13.500000000000002,
+        "actual": 13.500000000000002,
+        "abs_diff": 0.0,
+        "ok": true
+      },
+      "venture_irr": {
+        "expected": 0.5430818442170522,
+        "actual": 0.5430818442170522,
+        "abs_diff": 0.0,
+        "ok": true
+      }
+    }
+  }
+}
