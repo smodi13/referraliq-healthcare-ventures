@@ -3,7 +3,7 @@
 Independent candidate research project. It was not prepared, commissioned or endorsed by Intermountain Health or Intermountain
 Ventures and is not connected to any of their systems. Research as of October 10, 2026. Financial model contract 2.0.0.
 
-**Live dashboard:** LIVE_STREAMLIT_URL
+**Live dashboard:** https://referraliq-healthcare-ventures.streamlit.app
 **Source code:** https://github.com/smodi13/referraliq-healthcare-ventures
 
 ## Research objective
